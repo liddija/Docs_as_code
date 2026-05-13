@@ -17,7 +17,7 @@ The source page is well-crafted for human readers. This version preserves every 
 
 ## A note on IDs
 
-Concept, entity, and runbook IDs (`dt.concept.*`, `dt.entity.*`, `dt.runbook.*`) follow Dynatrace's naming convention but are illustrative. In production they would come from the canonical concept registry and Semantic Dictionary.
+Concept, entity, and runbook IDs (`dt.concept.*`, `dt.entity.*`, `dt.runbook.*`) follow Dynatrace's naming convention but are illustrative. In production they would come from the canonical concept registry.
 
 ## The three principles
 

@@ -23,4 +23,4 @@ Concept, entity, and runbook IDs (`dt.concept.*`, `dt.entity.*`, `dt.runbook.*`)
 
 1. **Docs as data. Free text stays for people; the envelope is for machines.**
 2. **Self-contained chunks fix the substrate.**
-3. **Bind to the Semantic Dictionary to ground in true environment.**
+3. **Bind to the canonical definitions to ground in true environment.**

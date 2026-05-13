@@ -21,6 +21,6 @@ Concept, entity, and runbook IDs (`dt.concept.*`, `dt.entity.*`, `dt.runbook.*`)
 
 ## The three principles
 
-1. **Docs as data, not just prose.** Free text stays for humans; the envelope is for machines.
-2. **Self-contained chunks beat better prompts.** Fix the substrate, not the LLM.
-3. **Bind to the Semantic Dictionary.** Concept and entity references let an AI pivot from "what does this doc say" to "is this true in *your* environment right now."
+1. ****Docs as data. Free text stays for people; the envelope is for machines.**
+2. ****Self-contained chunks fix the substrate.**
+3. ****Bind to the Semantic Dictionary to ground in true environment.**

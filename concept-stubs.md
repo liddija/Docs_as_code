@@ -2,9 +2,9 @@
 
 The Markdown file `install-oneagent-linux.md` references concept, entity, and runbook IDs that follow Dynatrace's naming convention (`dt.concept.*`, `dt.entity.*`, `dt.runbook.*`).
 
-In a production context engineering practice, these IDs would resolve to canonical records in Dynatrace's **Semantic Dictionary** — the single source of truth for product concepts and telemetry entities.
+In a production context engineering practice, these IDs would resolve to canonical records — the single source of truth for product concepts.
 
-This file is illustrative: it lists the IDs used in this prototype and the shape of record each would carry in the Semantic Dictionary. The actual definitions, ownership, and lifecycle rules would be owned by Information Development and Product, not by this prototype.
+This file is strickly illustrative. 
 
 ---
 

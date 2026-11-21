@@ -1,6 +1,6 @@
 # Context-Ready Documentation — Demo
 
-A prototype showing how a real Dynatrace documentation page can be restructured for AI consumption while remaining human-readable.
+A prototype showing how a documentation page can be restructured for AI consumption while remaining human-readable.
 
 ## What's here
 
